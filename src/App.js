@@ -4,6 +4,7 @@ import Main from "./pages/Main";
 import Git from "./pages/Git";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
+import "./index.css"
 
 function App() {
   return (
