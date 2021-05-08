@@ -13,11 +13,13 @@ function App() {
       <div>
         <Wrapper>
           <Nav />
+          <Router basename={process.env.PUBLIC_URL}>
           <Switch>
-            <Route exact path="/portfolio/" component={Main} />
-            <Route exact path="/portfolio/git.html" component={Git} />
-            <Route exact path="/portfolio/index.html" component={Main} />
+            <Route exact path="/" component={Main} />
+            <Route exact path="/git.html" component={Git} />
+            <Route exact path="/index.html" component={Main} />
           </Switch>
+          </Router>
           <Footer />
         </Wrapper>
       </div>
