@@ -4,7 +4,7 @@ function Git() {
     return (
         // eslint-disable-next-line react/style-prop-object
         <main class="container">
-            <div style={{ backgroundImage: `url("./software_img.jpg")`, backgroundRepeat: "no-repeat" }}>
+            <div style={{ backgroundImage: `url("./software_img.jpg")`, backgroundRepeat: "no-repeat", backgroundSize: "100%" }}>
                 <b><a class="nav-link" href="https://github.com/Deepali-Gtech" target="_blank" rel="noreferrer">
                     <h3>GitHub Profile</h3>
                 </a></b>
@@ -24,7 +24,7 @@ function Git() {
                             </li>
                         </div>
                         <div class="col-8">
-                            <img src="./outwrite.png" alt="outwrite website" class="img-fluid col-sm-7 p-2"></img>
+                            <img src="./outwrite.png" alt="outwrite website" class="img-fluid col-sm-6 p-2"></img>
                         </div>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ function Git() {
                 <div class="container" id="tableOne">
                     <div class="row">
                     <div class="col-8">
-                            <img src="./feed-me.png" alt="Feed me website" class="img-fluid col-sm-7 p-2"></img>
+                            <img src="./feed-me.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
                         </div>
                         <div class="col-4" id="feedme">
                             <b>Feed Me</b>
@@ -65,7 +65,7 @@ function Git() {
                             </li>
                         </div>
                         <div class="col-8">
-                            <img src="./weather-dashboard.png" alt="weather website" class="img-fluid col-sm-7 p-2"></img>
+                            <img src="./weather-dashboard.png" alt="weather website" class="img-fluid col-sm-6 p-2"></img>
                         </div>
                     </div>
                 </div>
