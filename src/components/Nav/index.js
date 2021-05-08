@@ -24,7 +24,7 @@ function Nav() {
           <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="nav navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="./git.html" >Portfolio</a>
+                <a class="nav-link" href="#/git.html" >Portfolio</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://www.linkedin.com/in/deepali-garg-7a04a5115/"
