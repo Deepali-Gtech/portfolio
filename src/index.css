@@ -12,10 +12,6 @@ code {
     monospace;
 }
 
-body {
-  background-color: rgb(73, 141, 150);
-}
-
 main{
   justify-content: center;
   text-align: center;

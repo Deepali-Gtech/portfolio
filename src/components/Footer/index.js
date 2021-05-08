@@ -1,13 +1,15 @@
 import React from "react";
 
 function Footer() {
-  return (
-    <footer class="py-4 bg-dark container">
-            <div class="container text-center">
-                <small>Copyright &copy; Deepali Garg</small>
-            </div>
-        </footer>
-  );
+    return (
+        <div class="container">
+            <footer class="py-4 bg-dark ">
+                <div class="text-center">
+                    <small>Copyright &copy; Deepali Garg</small>
+                </div>
+            </footer>
+        </div>
+    );
 }
 
 export default Footer;
