@@ -7,7 +7,7 @@ Deepali Garg's professional portfolio
 
 # Deployment
 
-Link to the deployed website: 
+Link to the deployed website:  https://deepali-gtech.github.io/portfolio/
 
 
 ## Below is the screen short for the website after search
