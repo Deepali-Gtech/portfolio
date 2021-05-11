@@ -9,7 +9,7 @@ function Git() {
                     <h3>GitHub Profile</h3>
                 </a></b>
 
-                <div class="container" id="tableOne">
+                <div class="container tableOne">
                     <div class="row">
                         <div class="col-4" id="outwrite">
                             <b>OutWrite</b>
@@ -29,7 +29,7 @@ function Git() {
                     </div>
                 </div>
 
-                <div class="container" id="tableOne">
+                <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
                             <img src="./feed-me.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
@@ -50,7 +50,7 @@ function Git() {
                     </div>
                 </div>
 
-                <div class="container" id="tableOne">
+                <div class="container tableOne">
                     <div class="row">
                         <div class="col-4" id="weather">
                             <b>Weather Dashboard</b>
@@ -70,7 +70,7 @@ function Git() {
                     </div>
                 </div>
 
-                <div class="container" id="tableOne">
+                <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
                             <img src="./feed-me.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
@@ -91,7 +91,7 @@ function Git() {
                     </div>
                 </div>
 
-                <div class="container" id="tableOne">
+                <div class="container tableOne">
                     <div class="row">
                         <div class="col-4" id="weather">
                             <b>Weather Dashboard</b>
@@ -111,7 +111,7 @@ function Git() {
                     </div>
                 </div>
 
-                <div class="container" id="tableOne">
+                <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
                             <img src="./feed-me.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
