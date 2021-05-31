@@ -11,6 +11,29 @@ function Git() {
 
                 <div class="container tableOne">
                     <div class="row">
+                        <div class="col-4" id="fitconnect">
+                            <b>Fit Connect</b>
+                            <li>
+                                {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
+                                <a class="websiteLink" href="https://shrouded-shore-55489.herokuapp.com/" target="_blank" rel="noreferrer" >Deployed link</a>
+                            </li>
+                            <li>
+                                {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
+                                <a class="websiteLink" href="https://github.com/ayejayhicks/fit-connect" target="_blank" rel="noreferrer">GitHub
+                                link</a>
+                            </li>
+                        </div>
+                        <div class="col-8">
+                            <img src="./fit-connect.png" alt="fit-connect website" class="img-fluid col-sm-6 p-2"></img>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container tableOne">
+                    <div class="row">
+                        <div class="col-8">
+                            <img src="./outwrite.png" alt="Outwrite website" class="img-fluid col-sm-6 p-2"></img>
+                        </div>
                         <div class="col-4" id="outwrite">
                             <b>OutWrite</b>
                             <li>
@@ -23,17 +46,12 @@ function Git() {
                                 link</a>
                             </li>
                         </div>
-                        <div class="col-8">
-                            <img src="./outwrite.png" alt="outwrite website" class="img-fluid col-sm-6 p-2"></img>
-                        </div>
+
                     </div>
                 </div>
 
                 <div class="container tableOne">
                     <div class="row">
-                        <div class="col-8">
-                            <img src="./feed-me.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
-                        </div>
                         <div class="col-4" id="feedme">
                             <b>Feed Me</b>
                             <li>
@@ -46,26 +64,8 @@ function Git() {
                                 link</a>
                             </li>
                         </div>
-
-                    </div>
-                </div>
-
-                <div class="container tableOne">
-                    <div class="row">
-                        <div class="col-4" id="weather">
-                            <b>Workout Tracker</b>
-                            <li>
-                                {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
-                                <a class="websiteLink" href="https://whispering-lake-79034.herokuapp.com/stats" target="_blank" rel="noreferrer" >Deployed link</a>
-                            </li>
-                            <li>
-                                {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
-                                <a class="websiteLink" href="https://github.com/Deepali-Gtech/workout-tracker" target="_blank" rel="noreferrer">GitHub
-                                link</a>
-                            </li>
-                        </div>
                         <div class="col-8">
-                            <img src="./fitnessTracker.png" alt="weather website" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./feed-me.png" alt="Feed me web pge" class="img-fluid col-sm-6 p-2"></img>
                         </div>
                     </div>
                 </div>
@@ -93,20 +93,20 @@ function Git() {
 
                 <div class="container tableOne">
                     <div class="row">
-                        <div class="col-4" id="weather">
-                            <b>Weather Dashboard</b>
+                        <div class="col-4" id="googlebooksearch">
+                            <b>Google Books Search</b>
                             <li>
                                 {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
-                                <a class="websiteLink" href="https://deepali-gtech.github.io/weather_dashboard" target="_blank" rel="noreferrer" >Deployed link</a>
+                                <a class="websiteLink" href="https://cryptic-basin-72321.herokuapp.com/" target="_blank" rel="noreferrer" >Deployed link</a>
                             </li>
                             <li>
                                 {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
-                                <a class="websiteLink" href="https://github.com/Deepali-Gtech/weather_dashboard" target="_blank" rel="noreferrer">GitHub
+                                <a class="websiteLink" href="https://github.com/Deepali-Gtech/google-books-search" target="_blank" rel="noreferrer">GitHub
                                 link</a>
                             </li>
                         </div>
                         <div class="col-8">
-                            <img src="./weather-dashboard.png" alt="weather website" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./googlebook.png" alt="google book search" class="img-fluid col-sm-6 p-2"></img>
                         </div>
                     </div>
                 </div>
@@ -114,17 +114,17 @@ function Git() {
                 <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
-                            <img src="./budget.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./techblog.png" alt="techblog" class="img-fluid col-sm-6 p-2"></img>
                         </div>
-                        <div class="col-4" id="feedme">
-                            <b>Budget Trackers</b>
+                        <div class="col-4" id="techblog">
+                            <b>Tech Blog</b>
                             <li>
                                 {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
-                                <a class="websiteLink" href="https://intense-shore-16050.herokuapp.com/" target="_blank" rel="noreferrer" >Deployed link</a>
+                                <a class="websiteLink" href="https://mysterious-stream-65434.herokuapp.com/" target="_blank" rel="noreferrer" >Deployed link</a>
                             </li>
                             <li>
                                 {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
-                                <a class="websiteLink" href="https://github.com/Deepali-Gtech/budget-trackers" target="_blank" rel="noreferrer">GitHub
+                                <a class="websiteLink" href="https://github.com/Deepali-Gtech/tech_blog" target="_blank" rel="noreferrer">GitHub
                                 link</a>
                             </li>
                         </div>
