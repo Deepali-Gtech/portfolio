@@ -5,7 +5,7 @@ function Main() {
     return (
         // eslint-disable-next-line react/style-prop-object
         <main class="container">
-            <div style={{ backgroundImage: `url("./software_img.jpg")`, backgroundRepeat: "no-repeat" }}>
+            <div style={{ backgroundImage: `url("./software_img.jpg")`, backgroundRepeat: "repeat-y", backgroundSize: "100%" }}>
                 <h1><b>Designer & Coder</b></h1>
                 <div id="profileImage">
                     <img src="./deepali.png" alt="Remote Classroom" class="img-fluid col-sm-4 p-2" />
