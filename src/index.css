@@ -36,3 +36,18 @@ footer{
 #feedMe{
   font-size: large;
 }
+
+#profileImage{
+  float: right;
+  
+}
+
+#bio{
+  padding-top: 4%;
+  padding-left: 80px;
+  padding-bottom: 20%
+}
+
+#full{
+  padding-top: 4%;
+}
