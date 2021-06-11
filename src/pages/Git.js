@@ -26,7 +26,7 @@ function Git() {
                             </li>
                         </div>
                         <div class="col-8">
-                            <img src="./fit-connect.png" alt="fit-connect website" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./fit-connect.png" alt="fit-connect website" class="img-fluid col-sm-9 p-2"></img>
                         </div>
                     </div>
                 </div>
@@ -34,14 +34,14 @@ function Git() {
                 <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
-                            <img src="./outwrite.png" alt="Outwrite website" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./outwrite.png" alt="Outwrite website" class="img-fluid col-sm-9 p-2"></img>
                         </div>
                         <div class="col-4" id="outwrite">
                             <b>OutWrite</b>
                             <p>This website is for writers looking to flex their muscles and get a little inspiration.
 
 Designed with collaboration in mind, OUTWrite is a site for writers looking to create collaborative stories. </p>
-Technology - Javascript, HTML5, Goodreads API, Random Prompt API, Bootstrap, Bulma
+Technology - JavaScript, HTML5, Goodreads API, Random Prompt API, Bootstrap, Bulma
                             <li>
                                 {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
                                 <a class="websiteLink" href="https://strawberry-crisp-31516.herokuapp.com/" target="_blank" rel="noreferrer" >Deployed link</a>
@@ -73,7 +73,7 @@ Technology - Javascript, HTML5, Goodreads API, Random Prompt API, Bootstrap, Bul
                             </li>
                         </div>
                         <div class="col-8">
-                            <img src="./feed-me.png" alt="Feed me web pge" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./feed-me.png" alt="Feed me web pge" class="img-fluid col-sm-9 p-2"></img>
                         </div>
                     </div>
                 </div>
@@ -81,11 +81,11 @@ Technology - Javascript, HTML5, Goodreads API, Random Prompt API, Bootstrap, Bul
                 <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
-                            <img src="./employeeDirectory.png" alt="Feed me website" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./employeeDirectory.png" alt="Feed me website" class="img-fluid col-sm-9 p-2"></img>
                         </div>
                         <div class="col-4" id="feedme">
                             <b>Employee Directory</b>
-                           <p> App will aloow to view entire employee directory at once so that you have quick access to their information.</p>
+                           <p> App will allow to view entire employee directory at once so that you have quick access to their information.</p>
                            Technology - MongoDB, Express, React, Node, Mongoose
                             <li>
                                 {/*eslint-disable-next-line jsx-a11y/anchor-has-content*/}
@@ -118,7 +118,7 @@ Technology - Javascript, HTML5, Goodreads API, Random Prompt API, Bootstrap, Bul
                             </li>
                         </div>
                         <div class="col-8">
-                            <img src="./googlebook.png" alt="google book search" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./googlebook.png" alt="google book search" class="img-fluid col-sm-9 p-2"></img>
                         </div>
                     </div>
                 </div>
@@ -126,7 +126,7 @@ Technology - Javascript, HTML5, Goodreads API, Random Prompt API, Bootstrap, Bul
                 <div class="container tableOne">
                     <div class="row">
                         <div class="col-8">
-                            <img src="./techblog.png" alt="techblog" class="img-fluid col-sm-6 p-2"></img>
+                            <img src="./techblog.png" alt="techblog" class="img-fluid col-sm-11 p-2"></img>
                         </div>
                         <div class="col-4" id="techblog">
                             <b>Tech Blog</b>
