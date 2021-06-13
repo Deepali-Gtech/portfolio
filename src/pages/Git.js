@@ -3,7 +3,7 @@ import React from "react";
 function Git() {
     return (
         // eslint-disable-next-line react/style-prop-object
-        <main class="container">
+        <main class="container" id="portfolio">
             <div style={{ backgroundImage: `url("./software_img.jpg")`, backgroundRepeat: "repeat-y", backgroundSize: "100%" }}>
                 <b><a class="nav-link" href="https://github.com/Deepali-Gtech" target="_blank" rel="noreferrer">
                     <h3>GitHub Profile</h3>
